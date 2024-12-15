@@ -36,8 +36,9 @@ I'm Alex, a **QA Engineer** with expertise in **Python**, passionate about testi
 - **Git/GitHub**: Version control and collaboration.  
 
 ## 🌟 Highlighted Projects  
-- [Web3 QA Framework](https://github.com/username/web3-qa-framework): An automated testing framework tailored for dApps.  
-- [Blockchain Node Testing](https://github.com/username/blockchain-node-tests): Scripts and tests for monitoring blockchain nodes.  
+- [Fintech_Analytics_Testing](https://github.com/ManMaxMotivation/Project_Fintech_Analytics): Testing widget calculation formulas for investment analytics in an investor's portfolio.
+- [Web3 AirDrop checker](https://github.com/ManMaxMotivation/Automation-Web3): An automated ZkSyncpepe airdrop checker.
+- [Web3 QA Framework](https://github.com/username/web3-qa-framework): An automated testing framework tailored for dApps.    
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManMaxMotivation&show_icons=true&theme=radical)  
