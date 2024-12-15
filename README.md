@@ -1,4 +1,3 @@
-# ManMaxMotivation
 # Hi there! 👋  
 I'm Alex, a **QA Engineer** with expertise in **Python**, passionate about testing cutting-edge technologies, including **Web3 projects** and decentralized applications.  
 
