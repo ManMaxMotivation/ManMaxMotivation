@@ -6,7 +6,7 @@ I'm Alex, a **QA Engineer** with expertise in **Python**, passionate about testi
 - 🔭 Currently working on: Ensuring quality for Web3 applications and EVM-compatible blockchain ecosystems.  
 - 🌱 Learning: Advanced test automation and smart contract auditing.  
 - 💬 Ask me about: Testing methodologies, blockchain technology, and Web3 development.  
-- 📫 How to reach me: [email@example.com](mailto:a.a.samsonow@gmail.com)  
+- 📫 How to reach me: [a.a.samsonow@gmail.com](mailto:a.a.samsonow@gmail.com)  
 
 ## 🛠️ Tech Stack  
 ### 💻 Programming and Scripting  
