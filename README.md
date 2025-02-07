@@ -45,5 +45,5 @@ I'm Alex, a **QA Engineer** with expertise in **Python**, passionate about testi
 
 ## 🌐 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/aleksandr-samsonov-2540531a5)  
-- [Telegram](https://t.me/Aleksandr_AWS)  
+- [Telegram](https://t.me/Aleksandr)  
 - [Portfolio](https://github.com/ManMaxMotivation?tab=repositorie)  
